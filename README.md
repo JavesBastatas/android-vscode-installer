@@ -76,7 +76,7 @@ Once done, you can login with your distro by `proot-distro login ubuntu`.
 Once login, enter command:
 ```sh
 apt update && apt upgrade -y
-```
+``` 
 
 #### 4. Install missing useful utilities
 The distro may not be fully complete. You have to install it manually. It may be missing with like `wget` utility.
